@@ -6,5 +6,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wnssrck)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wnssrck/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/wnssrck)  
 
 <p wnsrrck="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=;wel+come+your+profile!;!+!+!+!+!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="">
+  <img src="https://readme-typing-svg.demolab.com/?lines=;Wel+come+Your+Profile!;!+!+!+!+!+!+!+!+!+!+!+!+!+!+!+:/&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="">
 </p>
