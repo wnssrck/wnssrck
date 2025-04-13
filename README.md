@@ -21,7 +21,7 @@
 
         setInterval(() => {
             messageElement.innerText = messageText;
-        }, 1000);  // 1000 ms = 1 saniye
+        }, 1000);  // 1000 ms = 3 saniye
     </script>
 </body>
 </html>
