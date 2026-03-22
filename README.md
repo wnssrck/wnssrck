@@ -1,17 +1,12 @@
-<!-- Animasyonlu Daktilo Başlığı -->
+<!-- Rengarenk ve Hareketli Dalga Afişi -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Merhaba,+Ben+Sıla+Kaya+👋;Elektronik+Teknolojisi+Öğrencisi+⚡;IoT+ve+Gömülü+Sistemler+Tutkunu+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Merhaba,%20Ben%20Sıla%20Kaya%20👋&fontSize=50&fontAlignY=40&desc=Elektronik%20Teknolojisi%20Öğrencisi%20⚡&descAlignY=62&descSize=24&animation=twinkling" width="100%" />
 </p>
 
 <!-- Rengarenk Çizgi -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800">
 </p>
-
-<!-- Profil Görselleri ve GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200" />
-</div>
 
 <h2 align="center"> ✨ Hakkımda ✨ </h2>
 
@@ -29,7 +24,7 @@
 <h2 align="center"> 🛠️ Teknoloji Cephanem 🛠️ </h2>
 
 <p align="center">
-  <!-- Sadece Sıla'nın Uzmanlık Alanları (C#, Python, Arduino vs.) -->
+  <!-- Sadece Sıla'nın Uzmanlık Alanları -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,python,arduino,git,github,vscode&perline=6" />
   </a>
@@ -75,9 +70,4 @@
   <a href="https://x.com/wnssrck">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white" />
   </a>
-</p>
-
-<!-- Uzaylı Animasyonu -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100">
 </p>
