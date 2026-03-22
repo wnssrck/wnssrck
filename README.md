@@ -63,11 +63,17 @@
 <h2 align="center"> 📬 Bana Ulaş! 📬 </h2>
 
 <p align="center">
-  <a href="mailto:senin-mail-adresin@gmail.com">
-    <img src="https://img.shields.io/badge/Bana_Mail_At-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:silakaya66@icloud.com">
+    <img src="https://img.shields.io/badge/Email_Gönder-FF0000?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/senin-linkedin-ismin">
-    <img src="https://img.shields.io/badge/LinkedIn'den_Ekle-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/wnssrck">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/wnssrck">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/wnssrck">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white" />
   </a>
 </p>
 
