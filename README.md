@@ -29,9 +29,9 @@
 <h2 align="center"> 🛠️ Teknoloji Cephanem 🛠️ </h2>
 
 <p align="center">
-  <!-- Hareketli ve Renkli İkonlar -->
+  <!-- Sadece Sıla'nın Uzmanlık Alanları (C#, Python, Arduino vs.) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,arduino,python,html,css,js,git,github,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=cs,python,arduino,git,github,vscode&perline=6" />
   </a>
 </p>
 
@@ -81,4 +81,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100">
 </p>
-
