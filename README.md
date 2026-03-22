@@ -1,6 +1,6 @@
-<!-- Rengarenk ve Hareketli Dalga Afişi -->
+<!-- Rengarenk ve Hareketli SADECE İsim Afişi -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Merhaba,%20Ben%20Sıla%20Kaya%20👋&fontSize=50&fontAlignY=40&desc=Elektronik%20Teknolojisi%20Öğrencisi%20⚡&descAlignY=62&descSize=24&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Merhaba,%20Ben%20Sıla%20Kaya%20👋%20⚡&fontSize=60&fontAlignY=50&animation=twinkling" />
 </p>
 
 <!-- Rengarenk Çizgi -->
@@ -11,7 +11,7 @@
 <h2 align="center"> ✨ Hakkımda ✨ </h2>
 
 <div align="center">
-  <p><b>🔋 Donanım ile yazılımı birleştirip hayata geçirmeyi seven bir Elektronik öğrencisiyim.</b></p>
+  <p><b>⚡ Donanım ile yazılımı birleştirip hayata geçirmeyi seven bir Elektronik öğrencisiyim.</b></p>
   <p><b>🌐 Şu anki Efsanevi Projem:</b> Wi-Fi Tabanlı ESP32 Yalan Makinesi (Poligraf) 🕵️‍♀️</p>
   <p><b>🎯 Odaklandığım Alanlar:</b> Nesnelerin İnterneti (IoT), Gömülü Sistemler, Sensör Analizleri</p>
 </div>
@@ -24,7 +24,7 @@
 <h2 align="center"> 🛠️ Teknoloji Cephanem 🛠️ </h2>
 
 <p align="center">
-  <!-- Sadece Sıla'nın Uzmanlık Alanları -->
+  <!-- Sıla'nın Uzmanlık Alanları -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,python,arduino,git,github,vscode&perline=6" />
   </a>
@@ -35,7 +35,6 @@
 <h2 align="center"> 📊 GitHub İstatistiklerim (Tokyo Night Teması) 📊 </h2>
 
 <p align="center">
-  <!-- Renkli ve Gösterişli İstatistik Kartları -->
   <a href="https://github.com/wnssrck">
     <img src="https://github-readme-stats.vercel.app/api?username=wnssrck&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
   </a>
