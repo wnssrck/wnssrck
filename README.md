@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 Hakkımda
-- 🎓 **Elektronik Teknolojisi** son sınıf öğrencisiyim. Donanım ve yazılımı birleştirip yenilikçi projeler üretmeyi seviyorum.
+- 🎓 **Elektronik Teknolojisi ** son sınıf öğrencisiyim. Donanım ve yazılımı birleştirip yenilikçi projeler üretmeyi seviyorum.
 - 🔭 Şu an **IoT tabanlı, web arayüzlü ESP32 Yalan Makinesi (Poligraf)** projesi üzerinde çalışıyorum.
 - 🌱 Sensör veri analizleri, ağ haberleşmesi (Wi-Fi/Bluetooth) ve otomasyon sistemleri üzerine kendimi geliştiriyorum.
 - ⚡ **Hobilerim:** Devre tasarlamak, yeni mikrodenetleyiciler keşfetmek ve projelerimi hayata geçirmek.
