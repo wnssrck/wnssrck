@@ -1,4 +1,4 @@
-<!-- Rengarenk ve Hareketli SADECE İsim Afişi -->
+<!-- Rengarenk ve Hareketli İsim Afişi -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Merhaba,%20Ben%20Sıla%20Kaya%20👋%20⚡&fontSize=60&fontAlignY=50&animation=twinkling" />
 </p>
@@ -27,25 +27,6 @@
   <!-- Sıla'nın Uzmanlık Alanları -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,python,arduino,git,github,vscode&perline=6" />
-  </a>
-</p>
-
-<br>
-
-<h2 align="center"> 📊 GitHub İstatistiklerim (Tokyo Night Teması) 📊 </h2>
-
-<p align="center">
-  <a href="https://github.com/wnssrck">
-    <img src="https://github-readme-stats.vercel.app/api?username=wnssrck&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
-  </a>
-  <a href="https://github.com/wnssrck">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wnssrck&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/wnssrck">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnssrck&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
   </a>
 </p>
 
