@@ -20,14 +20,13 @@ Ağırlıklı olarak gömülü sistemler, C/C++ tabanlı programlama ve web tekn
 
 <p align="left">
   <!-- Gömülü Sistemler ve Programlama -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C# " />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <br><br>
   <!-- Web Teknolojileri (IoT Arayüzleri için) -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+ 
   <img src="https://img.shields.io/badge/-IoT-000000?style=for-the-badge&logo=Internet-of-Things&logoColor=white" alt="IoT" />
 </p>
 
@@ -40,10 +39,10 @@ Ağırlıklı olarak gömülü sistemler, C/C++ tabanlı programlama ve web tekn
 
 ### 📫 Bana Ulaşın
 <p align="left">
-  <a href="mailto:senine-posta-adresin@gmail.com">
+  <a href="mailto:silaakayaa00@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/senin-linkedin-ismin">
+  <a href="https://linkedin.com/in/wnssrck">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
