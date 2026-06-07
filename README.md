@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800">
 </p>
 
-<h2 align="center"> ✨ Hakkımda ✨ </h2>
+<h2 align="center">  </h2>
 
 <div align="center">
   <p><b>⚡ Donanım ile yazılımı birleştirip hayata geçirmeyi seven bir Elektronik öğrencisiyim.</b></p>
