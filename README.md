@@ -12,8 +12,7 @@
 
 <div align="center">
   <p><b>⚡ Donanım ile yazılımı birleştirip hayata geçirmeyi seven bir Elektronik öğrencisiyim.</b></p>
-  <p><b>🌐 Şu anki Efsanevi Projem:</b> Wi-Fi Tabanlı ESP32 Yalan Makinesi (Poligraf) 🕵️‍♀️</p>
-  <p><b>🎯 Odaklandığım Alanlar:</b> Nesnelerin İnterneti (IoT), Gömülü Sistemler, Sensör Analizleri</p>
+  
 </div>
 
 <!-- Rengarenk Çizgi -->
